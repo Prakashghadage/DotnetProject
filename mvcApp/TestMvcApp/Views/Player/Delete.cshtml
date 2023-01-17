@@ -1,0 +1,13 @@
+@using BOL;
+
+@model Players;
+
+<h2>Delete player</h2>
+<hr/>
+<form method="post" action="/Player/Delete">
+  <div class="form-group">
+    <label for="title">Id :</label>
+    <input type="Number" id="title" class="form-control" asp-for="Id">
+  
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>

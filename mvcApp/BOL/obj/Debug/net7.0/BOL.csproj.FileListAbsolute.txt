@@ -1,0 +1,12 @@
+E:\Tester\mvcApp\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\Tester\mvcApp\BOL\bin\Debug\net7.0\BOL.dll
+E:\Tester\mvcApp\BOL\bin\Debug\net7.0\BOL.pdb
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.dll
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\BOL.pdb
+E:\Tester\mvcApp\BOL\obj\Debug\net7.0\ref\BOL.dll

@@ -1,0 +1,17 @@
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\BLL.deps.json
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\BLL.dll
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\BLL.pdb
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\BOL.dll
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\DAL.dll
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\BOL.pdb
+E:\Tester\mvcApp\Bll\bin\Debug\net7.0\DAL.pdb
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.dll
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\refint\BLL.dll
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\BLL.pdb
+E:\Tester\mvcApp\Bll\obj\Debug\net7.0\ref\BLL.dll
